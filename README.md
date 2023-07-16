@@ -18,7 +18,6 @@ Furthermore model is evaluated on test data and we get following results:
        COVID-19       1.00      1.00      1.00        26
 Viral Pneumonia       0.87      0.65      0.74        20
          Normal       0.72      0.90      0.80        20
-
        accuracy                           0.86        66
       macro avg       0.86      0.85      0.85        66
    weighted avg       0.87      0.86      0.86        66
